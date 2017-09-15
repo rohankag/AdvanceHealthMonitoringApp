@@ -34,3 +34,7 @@ same URI is used to save accelerometer values and group22.db is uploaded to the 
 *************************************************************
 https://impact.asu.edu/CSE535Fall16Folder/UploadToServer.php
 *************************************************************
+
+License:
+
+No License
